@@ -1,3 +1,37 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
 .b--dark-purple { 
   border-color: #591F56; 
+}
+
+.b--aubergine { 
+  border-color: #c2abc6; 
+}
+
+.b--thistle {
+  border-color: #b977b3;
+}
+
+.b--dark-purple { 
+  border-color: #591F56; 
+}
+
+.bg-dark-purple { 
+  background: #591F56; 
+}
+
+.bg-custom { 
+  background: #fff0ff; 
+}
+
+
+.bg-aubergine {
+  background: #c2abc6;
+}
+
+.bg-thistle {
+  background: #f7e7f5;
 }
