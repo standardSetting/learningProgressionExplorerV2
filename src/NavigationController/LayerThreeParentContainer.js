@@ -5,6 +5,10 @@ function LayerThreeParentContainer(props){
 
     const enableTopBorder = props.enableTopBorder
     const enableBottomBorder = props.enableBottomBorder
+    const handleNavigationControllerClick = props.handleNavigationControllerClick
+    const layerNumber = props.layerNumber
+    const levelNumber = props.levelNumber
+    const strandNumber = props.strandNumber
 
     let ifBorderTopNeeded = ''
     let ifBorderBottomNeeded = ''
@@ -24,7 +28,9 @@ function LayerThreeParentContainer(props){
     return (
         <div 
             className={'b--dark-purple bl br bw2 '+ifBorderTopNeeded+ifBorderBottomNeeded} 
-            style={{width: `${L3_ELEMENT_WIDTH}px`, height: `${L3_ELEMENT_HEIGHT}px`, 'margin-top':`${marginTop}px`}}>
+            style={{width: `${L3_ELEMENT_WIDTH}px`, height: `${L3_ELEMENT_HEIGHT}px`, 'margin-top':`${marginTop}px`}}
+            handleNavigationControllerClick={handleNavigationControllerClick}
+            name={`Layer${layerNumber}Level${levelNumber}Strand${strandNumber}`}>
                 {props.children}
         </div>
     )
