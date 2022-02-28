@@ -11,7 +11,7 @@ function LevelCard(props){
                 <div className='flex flex-row'>
                     <div className='flex flex-column'>
                         <div className='b--dark-purple' >
-                            <div className='bg-almost-pink dark-purple b mt4'>
+                            <div className='bg-almost-pink dark-purple b mtb'>
                                 {levelCardIndex+'. '+LayerTwoText[levelCardIndex-1]['Nutshell statement']}
                             </div>
                             <div className=''>
