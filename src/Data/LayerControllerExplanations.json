@@ -1,0 +1,22 @@
+[
+    {
+        "layer":1,
+        "nutShellExplanation":"Layer 1 gives 'big picture' information about the learning area.",
+        "extendedExplanation":"<p>This layer defines the learning area; explains why it is considered valuable for an individual and for society to develop understandings and skills in the learning area; and gives a broad outline of what improvement in the learning area looks like.</p>"
+    },
+    {
+        "layer":2,
+        "nutShellExplanation":"Layer 2 describes levels in the development of understanding and skill in the learning area.",
+        "extendedExplanation":"<p>At this layer, improvement in the learning area is described using the vertical division of levels of attainment, corresponding to the equidistant divisions of the numerical scale. The descriptor for each level comprises a 'nutshell' summary statement, and an elaboration of the understandings and skills that are typically associated with the level.</p>"
+    },
+    {
+        "layer":3,
+        "nutShellExplanation":"Layer 3 describes levels in the development of understanding and skill for strands that make up the learning area.",
+        "extendedExplanation":"<p>At this layer, the vertical division into levels is carried over from layer 2, and the learning area is also divided horizontally into strands. Strands are concept-based, content-based or skill-based - they represent the major 'threads' along which improvement within the learning area can be said to occur. For example, in ACER's learning progression for reading comprehension, the strands are <i>Locating information</i>, <i>Understanding</i>, <i>Evaluating and reflecting</i>, and <i>The elements of reading aloud</i>; in ACER's learning progression for mathematics they are <i>Number and algebra</i>, <i>Measurement and geometry</i>, and <i>Statistics and probability</i>. The levels correspond across the strands, in that a student will typically be found to have attained the same level across all strands<sup>13</sup>.  There is one descriptor for each strand-level intersection. As for layer 2, the focus is on describing understanding and skill rather than observable behaviour, and descriptors aim to not only reveal differences between levels but also highlight change and transition.<sup>14</sup></p>"
+    },
+    {
+        "layer":4,
+        "nutShellExplanation":"Layer 4 comprises illustrations of what might be observed in a student's behaviour or responses when particular understandings and skills are operationalised.",
+        "extendedExplanation":"<p>At this layer, particular parts of a strand-level descriptor from layer 3 are illustrated via exemplar tasks, assessment items, samples of student work and descriptions of student thinking and reasoning.</p>"
+    }
+]

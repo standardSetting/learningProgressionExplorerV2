@@ -1,0 +1,22 @@
+[
+    {
+        "LayerNumber":"1",
+        "LayerNutshellDescription":"Layer 1 gives 'big picture' information about the learning area.",
+        "LayerElaboration":"<p>This layer defines the learning area; explains why it is considered valuable for an individual and for society to develop understandings and skills in the learning area; and gives a broad outline of what improvement in the learning area looks like.</p>"
+    },
+    {
+        "LayerNumber":"2",
+        "LayerNutshellDescription":"Layer 2 describes levels in the development of understanding and skills.",
+        "LayerElaboration":"<p>At this layer, improvement in the learning area is described using the vertical division of levels of attainment, corresponding to the equidistant divisions of the numerical scale. The descriptor for each level comprises a 'nutshell' summary statement, and an elaboration of the understandings and skills that are typically associated with the level. </p>"
+    },
+    {
+        "LayerNumber":"3",
+        "LayerNutshellDescription":"Layer 3 describes levels in the development of understanding and skill for strands that make up the learning area.",
+        "LayerElaboration":"<p>At this layer, the vertical division into levels is carried over from layer 2, and the learning area is also divided horizontally into strands. Strands are concept-based, content-based or skill-based - they represent the major 'threads' along which improvement within the learning area can be said to occur. There is one descriptor for each strand-level intersection.</p>"
+    },
+    {
+        "LayerNumber":"4",
+        "LayerNutshellDescription":"Layer 4 comprises illustrations of what might be observed in a student's behaviour or responses when particular understandings and skills are operationalised.",
+        "LayerElaboration":"At this layer, particular parts of a strand-level descriptor from layer 3 are illustrated via exemplar tasks, assessment items, samples of student work and descriptions of student thinking and reasoning. "
+    }
+]

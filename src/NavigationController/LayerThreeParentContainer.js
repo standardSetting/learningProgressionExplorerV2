@@ -25,12 +25,15 @@ function LayerThreeParentContainer(props){
         L3_ELEMENT_HEIGHT = L3_ELEMENT_HEIGHT - 4
     }
 
+    let borderWidth
+    layerNumber === 3 ? borderWidth = ' bw2' : borderWidth = ' bw1'
+
     return (
         <div 
-            className={'b--dark-purple bl br bw2 '+ifBorderTopNeeded+ifBorderBottomNeeded} 
-            style={{width: `${L3_ELEMENT_WIDTH}px`, height: `${L3_ELEMENT_HEIGHT}px`, 'margin-top':`${marginTop}px`}}
-            handleNavigationControllerClick={handleNavigationControllerClick}
-            name={`Layer${layerNumber}Level${levelNumber}Strand${strandNumber}`}>
+            className={'b--dark-purple bl br '+ifBorderTopNeeded+ifBorderBottomNeeded+borderWidth} 
+            style={{width: `${L3_ELEMENT_WIDTH}px`, height: `${L3_ELEMENT_HEIGHT}px`, marginTop:`${marginTop}px`}}
+            onClick={handleNavigationControllerClick}
+            name={`Layer-${layerNumber}-Level-${levelNumber}-Strand-${strandNumber}`}>
                 {props.children}
         </div>
     )

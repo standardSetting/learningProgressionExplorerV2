@@ -1,40 +1,49 @@
-import { useState } from 'react'
 import LayerOneParentContainer from './LayerOneParentContainer'
 import LayerTwoParentContainer from './LayerTwoParentContainer'
 import LayerThreeParentContainer from './LayerThreeParentContainer'
 import LayerFourParentContainer from './LayerFourParentContainer'
 
+import NavigationControllerMessage from './NavigationControllerMessage'
+
+import { useEffect, useRef, useState } from 'react'
+import * as Scroll from 'react-scroll';
 
 function NavigationController(props){
+    let scroll = Scroll.animateScroll;
 
-    // Adjust these factors for sizing
-    const NUMBER_OF_STRANDS = 3
-    const NUMBER_OF_LEVELS = 12
-    const MAX_NUMBER_OF_L4_ELEMENTS = 1
+    const windowHeight = props.windowHeight
+    const windowWidth = props.windowWidth
+    const setHideShadowScroll = props.setHideShadowScroll
+    const lastControllerClick = props.lastControllerClick
+    const secondLastControllerClick = props.secondLastControllerClick
+    const setLastControllerClick = props.setLastControllerClick
+    const setSecondLastControllerClick = props.setSecondLastControllerClick
+    const detectClick = props.detectClick
+    const setDetectClick = props.setDetectClick
+    const totalScrollHeight = props.totalScrollHeight
+    const renderLayerNumber = props.renderLayerNumber
+    const NUMBER_OF_STRANDS = props.NUMBER_OF_STRANDS
+    const NUMBER_OF_LEVELS = props.NUMBER_OF_LEVELS
+    const NUMBER_OF_LAYERS = props.NUMBER_OF_LAYERS
+    const L4_ELEMENT_WIDTH = props.L4_ELEMENT_WIDTH
+    const L4_ELEMENT_HEIGHT = props.L4_ELEMENT_HEIGHT
+    const L3_ELEMENT_WIDTH = props.L3_ELEMENT_WIDTH
+    const L3_ELEMENT_HEIGHT = props.L3_ELEMENT_HEIGHT    
+    const TOP_OFFSET_FACTOR = props.TOP_OFFSET_FACTOR
+    const RIGHT_OFFSET_FACTOR = props.RIGHT_OFFSET_FACTOR
+    const L2_LEVEL_WIDTH = props.L2_LEVEL_WIDTH
+    const L2_LEVEL_HEIGHT = props.L2_LEVEL_HEIGHT
+    const L1_WIDTH = props.L1_WIDTH
+    const L1_HEIGHT = props.L1_HEIGHT
+    const NAVIGATION_CONTROLLER_CONTAINER_WIDTH=props.NAVIGATION_CONTROLLER_CONTAINER_WIDTH
+    const NAVIGATION_CONTROLLER_MARGIN_LEFT = props.NAVIGATION_CONTROLLER_MARGIN_LEFT
+    const NAVIGATION_CONTROLLER_MARGIN_RIGHT = props.NAVIGATION_CONTROLLER_MARGIN_RIGHT
+    const NAVIGATION_CONTROLLER_CONTAINER_HEIGHT = props.NAVIGATION_CONTROLLER_CONTAINER_HEIGHT
+    const handleNavigationControllerClick = props.handleNavigationControllerClick
 
-    const L4_ELEMENT_WIDTH = 10
-    const L4_ELEMENT_HEIGHT = 10
-    const L4_ELEMENT_WIDTH_SPACING_FACTOR = 5.2
-    const L4_ELEMENT_HEIGHT_SPACING_FACTOR = 3
+    const setShowDummyLayerWithNoHeight = props.setShowDummyLayerWithNoHeight
 
-    const RIGHT_OFFSET_SCALE_FACTOR = 0.65
 
-    const L3_ELEMENT_WIDTH = L4_ELEMENT_WIDTH_SPACING_FACTOR*L4_ELEMENT_WIDTH
-    const L3_ELEMENT_HEIGHT = L4_ELEMENT_HEIGHT_SPACING_FACTOR*L4_ELEMENT_HEIGHT
-    
-    const TOP_OFFSET_FACTOR = L3_ELEMENT_HEIGHT
-    const RIGHT_OFFSET_FACTOR = L3_ELEMENT_WIDTH*RIGHT_OFFSET_SCALE_FACTOR
-    // End Adjust these factors for sizing
-
-    const L2_LEVEL_WIDTH = NUMBER_OF_STRANDS*L3_ELEMENT_WIDTH
-    const L2_LEVEL_HEIGHT = L3_ELEMENT_HEIGHT
-
-    const L1_WIDTH = L2_LEVEL_WIDTH
-    const L1_HEIGHT = NUMBER_OF_LEVELS*L2_LEVEL_HEIGHT
-
-    function handleNavigationControllerClick(e){
-        console.log(e.target.attributes.name.nodeValue)
-    }
 
     let layerTwoLevels = []
     for (let i=0; i<NUMBER_OF_LEVELS; i++){
@@ -80,8 +89,8 @@ function NavigationController(props){
                 levelNumber={NUMBER_OF_LEVELS-j}
                 handleNavigationControllerClick={handleNavigationControllerClick}>  
                     <div 
-                        className='flex justify-around' style={{'margin-right':'2.5px'}}
-                        name={`Layer${layerNumber}Level${NUMBER_OF_LEVELS-j}`}>
+                        className='flex justify-around' style={{marginRight:'2.5px'}}
+                        name={`Layer-${layerNumber}-Level-${NUMBER_OF_LEVELS-j}-Strand-none`}>
                         {layerThreeStrands}
                     </div>
             </LayerTwoParentContainer>)
@@ -125,8 +134,8 @@ function NavigationController(props){
                 enableTopBorder={enableTopBorder}>  
                     <div 
                         className='flex justify-around' 
-                        style={{'margin-right':'2.5px'}}
-                        name={`Layer${layerNumber}Level${NUMBER_OF_LEVELS-m}`}>
+                        style={{marginRight:'2.5px'}}
+                        name={`Layer-${layerNumber}-Level-${NUMBER_OF_LEVELS-m}-Strand-none`}>
                         {layerFourStrands}
                     </div>
             </LayerTwoParentContainer>)
@@ -138,13 +147,21 @@ function NavigationController(props){
 
     for (let p=0; p<allLevelChildren.length; p++){
         layerParents.push(
-            <div className='ma2' style={{position: 'relative', top: `${TOP_OFFSET_FACTOR*4-TOP_OFFSET_FACTOR*p}px`, right: `${RIGHT_OFFSET_FACTOR*p}px`, 'z-index':`${allLevelChildren.length-p}`}}>
+            <div 
+                className='ma2' 
+                style={{
+                    position: 'relative', 
+                    top: `${TOP_OFFSET_FACTOR*4-TOP_OFFSET_FACTOR*p}px`, 
+                    right: `${RIGHT_OFFSET_FACTOR*p}px`, 
+                    zIndex:`${allLevelChildren.length-p}`}}>
             <LayerOneParentContainer 
                 L1_WIDTH={L1_WIDTH} 
                 L1_HEIGHT={L1_HEIGHT} 
                 layerNumber={p+1}
+                layerLabel={`Layer ${p+1}`}
+                renderLayerNumber={renderLayerNumber}
                 handleNavigationControllerClick={handleNavigationControllerClick}>
-                {allLevelChildren[p]}
+                    {allLevelChildren[p]}
             </LayerOneParentContainer>
         </div>
         )
@@ -152,11 +169,21 @@ function NavigationController(props){
 
 
     return (
-        <div className='' style={{width: '600px', height: '480px'}}>
-            <div className='flex flex-row'>
-                {layerParents}
+        <>
+            <div className='' style={{marginRight: `-${NAVIGATION_CONTROLLER_MARGIN_RIGHT}px` ,width: `${NAVIGATION_CONTROLLER_CONTAINER_WIDTH}`, height: `${NAVIGATION_CONTROLLER_CONTAINER_HEIGHT}px`}}>
+                <div style={{marginLeft: `${NAVIGATION_CONTROLLER_MARGIN_LEFT}px`}}>
+                    <div className='flex flex-row'>
+                        {layerParents}
+                    </div>
+                    <div style={{marginTop:`${TOP_OFFSET_FACTOR*NUMBER_OF_LAYERS}px`}}>
+                        <NavigationControllerMessage 
+                            renderLayerNumber={renderLayerNumber}
+                            NAVIGATION_CONTROLLER_CONTAINER_WIDTH={NAVIGATION_CONTROLLER_CONTAINER_WIDTH}
+                            TOP_OFFSET_FACTOR={TOP_OFFSET_FACTOR}/>
+                    </div>
+                </div>
             </div>
-        </div>
+        </>
     )
 }
 

@@ -10,14 +10,18 @@ function LayerTwoParentContainer(props){
     let ifBorderTopNeeded
     enableTopBorder ? ifBorderTopNeeded = 'bt ' : ifBorderTopNeeded = ''
 
+    let borderWidth
+    layerNumber === 2 ? borderWidth = ' bw2' : borderWidth = ' bw1'
+
     return (
-        <div 
-            className={'b--dark-purple bw1 '+ifBorderTopNeeded} 
-            style={{width:`${L2_LEVEL_WIDTH}px`, height:`${L2_LEVEL_HEIGHT}px`}}
-            name={`Layer${layerNumber}Level${levelNumber}`}
-            handleNavigationControllerClick={handleNavigationControllerClick}>
-            {props.children}
-        </div>
+            <div 
+                className={'b--dark-purple bw1 '+ifBorderTopNeeded+borderWidth} 
+                style={{width:`${L2_LEVEL_WIDTH-3}px`, height:`${L2_LEVEL_HEIGHT}px`}}
+                // name={`Layer${layerNumber}Level${levelNumber}`}
+                name={`Layer-${layerNumber}-Level-${levelNumber}-Strand-none`}
+                onClick={handleNavigationControllerClick}>
+                {props.children}
+            </div>
     )
 }
 

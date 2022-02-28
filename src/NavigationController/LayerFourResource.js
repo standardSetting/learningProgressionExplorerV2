@@ -10,8 +10,8 @@ function LayerFourResource(props){
     return (
         <div 
             className='ba b--dark-purple bw1 bg-aubergine' 
-            style={{width: `${L4_ELEMENT_WIDTH}px`, height: `${L4_ELEMENT_HEIGHT}px`, 'border-radius':'50%', 'margin-bottom':`${marginBottom}px`}}
-            name={`Layer${layerNumber}Level${levelNumber}Strand${strandNumber}Resource`}>
+            style={{width: `${L4_ELEMENT_WIDTH}px`, height: `${L4_ELEMENT_HEIGHT}px`, borderRadius:'50%', marginBottom:`${marginBottom}px`}}
+            name={`Layer-${layerNumber}-Level-${levelNumber}-Strand-${strandNumber}`}>
             
         </div>
     )

@@ -16,9 +16,12 @@ function LayerFourParentContainer(props){
     enableMarginBottom ? marginBottom = 4 : marginBottom = 0
 
     return (
-        <div className='flex justify-center' onClick={handleNavigationControllerClick} name={`Layer${layerNumber}Level${levelNumber}Strand${strandNumber}`}>
+        <div 
+            className='flex justify-center' 
+            onClick={handleNavigationControllerClick} 
+            name={`Layer-${layerNumber}-Level-${levelNumber}-Strand-${strandNumber}`}>
             <div style={{width: `${L4_ELEMENT_WIDTH}px`}}>
-                <div style={{display: 'flex', 'flex-direction':'column','justify-content':'space-around', height:`${L3_ELEMENT_HEIGHT}px`}}>
+                <div style={{display: 'flex', flexDirection:'column', justifyContent:'space-around', height:`${L3_ELEMENT_HEIGHT}px`}}>
                     <LayerFourResource 
                         L4_ELEMENT_WIDTH={L4_ELEMENT_WIDTH} 
                         L4_ELEMENT_HEIGHT={L4_ELEMENT_HEIGHT} 

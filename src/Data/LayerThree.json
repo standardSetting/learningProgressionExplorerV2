@@ -1,0 +1,722 @@
+[
+    [
+        {
+            "Level":1,
+            "Number and algebra":"Recognise and use the concept of quantity and recognise that number symbols and names can be used to represent quantities.",
+            "Measurement and geometry":"Label, classify and sort familiar objects by their measurable properties such as height, length, size (area, volume) or weight (mass), and use informal geometric language to describe them (eg 'this stick is shorter', 'that is a bigger mat', 'this container is full', 'this object is heavier', 'this side is straight, that side is curved').",
+            "Statistics and probability":"Classify and sort familiar objects into groups according to their properties (eg colour, number of legs, type of toy)."
+        },
+        {
+            "Level":1,
+            "Number and algebra":"Recognise and use quantities corresponding to one-digit numbers represented physically (eg three objects) or through other senses (eg three repeated sounds, movements, or light flashes), written as numerals, or spoken as number names.",
+            "Measurement and geometry":"Recognise regularity and change in events over time (eg daily routine, growth). ",
+            "Statistics and probability":""
+        },
+        {
+            "Level":1,
+            "Number and algebra":"Represent quantities corresponding to one-digit numbers in different ways, such as by using counters, or by clapping.",
+            "Measurement and geometry":"Compare heights or lengths of objects that are aligned to a common base.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":1,
+            "Number and algebra":"Use the five counting principles (stable order, one-to-one correspondence, cardinality, abstraction, order irrelevance) to count small sets of objects.",
+            "Measurement and geometry":"Match shapes or pictures (eg find the shape that matches this blue square; find the animal sticker that matches this picture).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":1,
+            "Number and algebra":"Use language to describe order (eg first, second, middle).",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        },
+        {
+            "Level":1,
+            "Number and algebra":"Recognise a repeating numeric sequence, or a pattern involving one-digit numbers (eg a repeating beat in music - '1,2,3;1,2,3').",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        },
+        {
+            "Level":1,
+            "Number and algebra":"Recognise the link between physical properties of objects and a particular meaning or value (eg link the size, shape and value of a coin, link position and colour to meaning of a red traffic light).",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":2,
+            "Number and algebra":"Recognise and use quantities corresponding to two-digit numbers written as numerals, or spoken, or represented in other physical ways; represent quantities corresponding to two-digit numbers using counters or other physical objects.",
+            "Measurement and geometry":"Interpret and use positional terms such as 'next to', 'onto', 'under'.",
+            "Statistics and probability":"Understand that a pictograph represents a display of categorical data, and read category counts from it (eg How many apples are shown?)."
+        },
+        {
+            "Level":2,
+            "Number and algebra":"Explore the composition of small numbers (eg through decomposing and partitioning with counters) to build understanding of conservation of number.",
+            "Measurement and geometry":"Recognise the concept of angle and describe it informally (eg sharp turn, door open wide, turn and face the opposite way).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":2,
+            "Number and algebra":"Explore the arithmetic operations of addition, subtraction, multiplication and division using concrete processes and mental strategies, such as counting on, counting back, counting all, grouping and sharing.",
+            "Measurement and geometry":"Sequence and describe events in time using informal comparison (eg before/after, older/younger, relative duration of events).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":2,
+            "Number and algebra":"Describe and compare collections of objects quantitatively using language such as 'empty', 'full',  'more', 'most', 'fewer', 'fewest', 'equal', 'greater than', 'two less than'.",
+            "Measurement and geometry":"Recognise and name geometric properties of two-dimensional shapes (eg number of edges or vertices, inside/outside, curved/straight).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":2,
+            "Number and algebra":"Continue a repeating pattern of two elements or identify a missing element in it.",
+            "Measurement and geometry":"Identify two-dimensional representations of familiar three-dimensional objects (eg a ball, a box, a cylinder).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":2,
+            "Number and algebra":"",
+            "Measurement and geometry":"Compose a larger shape from a small number of given shapes, and decompose a larger shape, to build understanding of conservation of area.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":2,
+            "Number and algebra":"",
+            "Measurement and geometry":"Manipulate objects to impose a common frame of reference (eg, align objects to facilitate length comparison)",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":3,
+            "Number and algebra":"Count by ones to any number, backwards and forwards.",
+            "Measurement and geometry":"Use positional language (eg 'between', 'in front of', 'behind', 'opposite', 'on the left', 'forward') and follow or compose directions involving positional language within a single frame of reference.",
+            "Statistics and probability":"Read and compare information from a pictograph or tally chart (eg how many are in a specified category, what is the difference between two categories)."
+        },
+        {
+            "Level":3,
+            "Number and algebra":"Skip count forward by 2, 4, 5, 10 and 100.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"Understand the structure of numbers by using ideas of place value to say, recognise, write, decompose and compose two-digit whole numbers.",
+            "Measurement and geometry":"Read time from a digital clock to the minute; read time from an analogue clock to the hour.",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"Understand the relative position and magnitude of numbers as locations on a (number) line.",
+            "Measurement and geometry":"Calculate a time difference between two times in hours (eg 2 o'clock to 4 o'clock).",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"Understand and use the concept of zero as a null count.",
+            "Measurement and geometry":"Recognise measures of time (second, minute, hour, day, week, month, year, season).",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"Understand the symbols for addition, subtraction and equality. ",
+            "Measurement and geometry":"Quantify measures of length, area, capacity and angle using informal language and units (eg hand-spans for length, cups to fill a container, half-turn and full turn).",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"Understand a half is one of two equal partitions by comparing parts (eg identify half a set of objects) and recognise its conventional symbolic representation.",
+            "Measurement and geometry":"Compare lengths of objects where mental/physical manipulation is required (eg relative lengths of a straight line and a curved line, or a set of sticks that are scattered).",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"Continue a repeating pattern of three or more elements or identify a missing element in it.",
+            "Measurement and geometry":"Recognise half a regular shape.",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"Develop strategies for adding and subtracting with one- and two-digit numbers.",
+            "Measurement and geometry":"Compare the mass of objects (eg using hefting or a balance scale).",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"",
+            "Measurement and geometry":"Compare, match and classify two-dimensional shapes according to properties such as the number of edges, presence and number of vertices, and informal angle properties.",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"",
+            "Measurement and geometry":"Select and use shapes to fill a space without gaps or overlap (eg complete a geometric puzzle or pattern).",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"",
+            "Measurement and geometry":"Identify a line of symmetry (mirror line) in a shape or a simple arrangement of shapes.",
+            "Statistics and probability":""
+        }, 
+        {
+            "Level":3,
+            "Number and algebra":"",
+            "Measurement and geometry":"Apply principles of line symmetry to complete a simple shape or symmetrical design.",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":4,
+            "Number and algebra":"Count forwards in fixed steps other than 2, 4, 5, 10 and 100 starting from a multiple of the fixed step (eg counting forwards from 7 in steps of 7; counting forwards from 9 in steps of 3).",
+            "Measurement and geometry":"Understand a calendar as a representation of the repeated pattern of days, months and years, and the relationships among these units of time (eg one row represents a week, all cells in the same column are the same day of the week).",
+            "Statistics and probability":"Construct a tally chart or pictograph where each category count is a single-digit."
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Estimate the number of objects in a collection.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Understand the structure of numbers by using ideas of place value to say, recognise, write, decompose, compose, order and round multi-digit whole numbers, including numbers containing zero.",
+            "Measurement and geometry":"Read time to the half hour on an analogue clock. ",
+            "Statistics and probability":"Read and compare information from a table or column graph (eg how many are in a specified category, what is the difference between two categories)."
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Understand and use the concept of zero as a reference point or origin (eg on a ruler). ",
+            "Measurement and geometry":"Measure quantities using a variety of calibrated devices (eg ruler, tape measure, trundle wheel, stopwatch, kitchen scales).",
+            "Statistics and probability":"Retrieve multiple pieces of information from a tally chart or pictograph to solve problems (eg to calculate a total represented by several rows on a tally chart)."
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Understand the symbols for multiplication and division.",
+            "Measurement and geometry":"Use informal procedures (including estimation) to compare the area of different shapes (eg using a grid), and the capacity of different containers (eg using sand, rice or water).",
+            "Statistics and probability":"Use the language of chance (more likely, less likely, impossible, certain) to describe and compare everyday events."
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Use concrete materials, mental methods or written algorithms to solve arithmetic problems.",
+            "Measurement and geometry":"Compare and classify three-dimensional shapes according to properties such as the number of faces, edges, vertices.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Explore properties of numbers (eg existence of factors, triangular numbers and square numbers).",
+            "Measurement and geometry":"Recognise defining properties and properties that can vary for familiar two- and three-dimensional shape types.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Know the multiplication tables to 12 and the number bonds to 20.",
+            "Measurement and geometry":"Recognise congruence and similarity as they apply to two-dimensional shapes, and distinguish between them (eg identifying shapes that have been reflected, rotated or translated, or enlarged or reduced).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Identify and compare different visual representations of unit fractions using informal proportional thinking to recognise that as the denominator increases, the value of the unit fraction decreases.",
+            "Measurement and geometry":"Recognise shapes that can be fitted together to make tiling patterns (tessellations).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Represent unit fractions and multiples of unit fractions less than one whole (proper fractions) symbolically and visually, recognising the meaning of the denominator and the numerator in symbolic representations.",
+            "Measurement and geometry":"Use alphanumeric grid references (eg to read a map).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":4,
+            "Number and algebra":"Construct a repeating pattern of two or more elements.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":5,
+            "Number and algebra":"Understand the structure of decimal numbers by using ideas of place value to say, recognise, write, decompose, compose, order and round numbers with fractional parts.",
+            "Measurement and geometry":"Use positional language, and construct and follow directions involving positional language, when there are different frames of reference (eg your left vs my left).",
+            "Statistics and probability":"Construct a tally chart, pictograph or column graph where the category counts are multi-digit numbers."
+        },
+        {
+            "Level":5,
+            "Number and algebra":"Use large ordinal numbers (eg a 64th birthday, the 33rd ranked tennis player).",
+            "Measurement and geometry":"Use a calendar to carry out date-related calculations.",
+            "Statistics and probability":"Interpret pictographs where the symbol represents more than one unit and column graphs where each column represents a count to solve problems."
+        },
+        {
+            "Level":5,
+            "Number and algebra":"Count forwards or backwards in fixed steps other than 2, 4, 5, 10 and 100, starting from a number that is not a multiple of the fixed step (eg counting forward from 10 in steps of 6, counting backwards from 1100 in steps of 200).",
+            "Measurement and geometry":"Perform time calculations with analogue clocks involving only hours (eg the number of hours between x-o’clock and y-o’clock), or involving only minutes within a single hour.",
+            "Statistics and probability":"Predict results in qualitative terms (likely, unlikely, impossible, certain) from simple probability experiments (eg identifying the colour that is most likely to be spun on a spinner)."
+        },
+        {
+            "Level":5,
+            "Number and algebra":"Select and use appropriate strategies and standard procedures for the arithmetic operations (addition, subtraction, multiplication, division) in familiar contexts (eg calculating change from money amounts). ",
+            "Measurement and geometry":"Choose the appropriate device and units to measure the length of an object (eg a ruler marked in centimetres and millimetres to measure the length of a shoe, a trundle wheel to measure the width of a playground).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":5,
+            "Number and algebra":"Use estimation to evaluate if results of arithmetic calculations are reasonable. ",
+            "Measurement and geometry":"Estimate quantities (eg lengths, volumes, angles, areas and time intervals) in familiar contexts.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":5,
+            "Number and algebra":"Understand the inverse relationships among the arithmetic operations (addition/subtraction and multiplication/division).",
+            "Measurement and geometry":"Choose appropriate units and measurement tools to measure the perimeter, area, volume, temperature or mass of familiar objects and materials (eg use: grid squares to quantify the area of familiar shapes; small cubes to quantify the volume of cubes or cuboids; a standard reference weight to measure mass on a balance; a digital thermometer to measure temperature).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":5,
+            "Number and algebra":"Solve missing number equations involving either addition or subtraction.",
+            "Measurement and geometry":"Recognise linked geometric representations of simple, familiar prisms (eg identify the net of a cube, recognise front, top and side views of a rectangular prism, identify a three-dimensional representation of a triangular prism from its net).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":5,
+            "Number and algebra":"Use multiplicative thinking to solve word problems (eg sharing 60 balls among 7 people).",
+            "Measurement and geometry":"Recognise the relationships between the properties of different two- and three-dimensional shapes (eg relationships between number of edges, vertices and faces, shape of faces).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":5,
+            "Number and algebra":"",
+            "Measurement and geometry":"Follow directions using compass points.",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":6,
+            "Number and algebra":"Represent on a number line relative locations of whole numbers, common fractions with related denominators, and decimal fractions with tenths and hundredths.",
+            "Measurement and geometry":"Read time on digital and analogue clocks to the minute, and perform time calculations including those that require crossing from am to pm in 12-hour time.",
+            "Statistics and probability":"Design survey questions in familiar contexts to elicit responses which allow numbers to be assigned to represent categories, orders, counts and amounts (eg boy=1, girl=2; levels of agreement; heights/ages/counts)."
+        },
+        {
+            "Level":6,
+            "Number and algebra":"Use proportional reasoning to identify equivalent representations of fractions, including percentages (eg use reasoning to show that 3/5 is the same as 6/10 and so is equivalent to 60%).",
+            "Measurement and geometry":"Determine the perimeter of different regular and irregular shapes (eg triangles, rectangles).",
+            "Statistics and probability":"Organise given or collected data into a pictograph, column graph or table."
+        },
+        {
+            "Level":6,
+            "Number and algebra":"Calculate percentage multiples of 10% (eg 10%, 20%, 30%) of numbers up to 100.",
+            "Measurement and geometry":"Calculate the area of irregular shapes using appropriately sized grid squares.",
+            "Statistics and probability":"Express as a fraction the chance of a given event in a simple probability experiment."
+        },
+        {
+            "Level":6,
+            "Number and algebra":"Do division involving remainders.",
+            "Measurement and geometry":"Calculate the volume of compound objects composed of cuboids using appropriately sized small cubes.",
+            "Statistics and probability":"Interpret data displayed as a column graph with a vertical axis that represents a measured quantity, a two-category column graph, a two-way table or tally chart."
+        },
+        {
+            "Level":6,
+            "Number and algebra":"Select and fluently use appropriate strategies and standard procedures for mathematical operations (addition, subtraction, multiplication, division) in a range of contexts.",
+            "Measurement and geometry":"Compare angles to right angles or straight angles.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":6,
+            "Number and algebra":"Solve missing number equations involving a single addition, subtraction, multiplication or division operation.",
+            "Measurement and geometry":"Create tessellations of two-dimensional shapes.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":6,
+            "Number and algebra":"Use proportional reasoning to informally express and interpret unit rates and ratios where the quantities involved have the same units.",
+            "Measurement and geometry":"Recognise linked representations of a range of familiar prisms and pyramids (eg match different three-dimensional objects to their nets, identify front, top and side views of three-dimensional objects).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":6,
+            "Number and algebra":"Recognise and continue a pattern in a visual or numeric sequence that involves a multiplicative process such as doubling, tripling, halving.",
+            "Measurement and geometry":"Use positional language, and follow directions involving positional language, to solve problems.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":6,
+            "Number and algebra":"",
+            "Measurement and geometry":"Apply a given scale to calculate a distance on a scale image (eg map, drawing or photograph) when no interpolation is required. ",
+            "Statistics and probability":""
+        },
+        {
+            "Level":6,
+            "Number and algebra":"",
+            "Measurement and geometry":"Use positional language to describe the location of one landmark with reference to another on a representation of a physical space (eg map or aerial photograph).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":6,
+            "Number and algebra":"",
+            "Measurement and geometry":"Use the Cartesian coordinate system to label and locate points in a plane.",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":7,
+            "Number and algebra":"Recognise real-world uses of negative numbers (eg temperature, height below sea level).",
+            "Measurement and geometry":"Convert between alternative units of time (eg 24-hour to 12-hour, fractions of an hour, minutes to hours).",
+            "Statistics and probability":"Understand that sets of ungrouped data can be described with summary statistics."
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Add large numbers using bridging across tens, hundreds and thousands.",
+            "Measurement and geometry":"Express, compare and use rates (eg speed, flow)",
+            "Statistics and probability":"Calculate the arithmetic mean and range of ungrouped data and solve problems involving the result."
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Represent the remainder of a division as a fraction or a decimal.",
+            "Measurement and geometry":"Use knowledge of the properties of regular and irregular polygons to calculate perimeter.",
+            "Statistics and probability":"Retrieve and interpret data from tables, column graphs (including two-category column graphs and those involving grouped data), pictographs (including those that use a symbol for multiple or fractional units)."
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Use proportional reasoning to compare and convert between fractions, decimals and percentages.",
+            "Measurement and geometry":"Know that the area of a rectangle can be calculated as the product of length and width.",
+            "Statistics and probability":"Identify suitable ways of summarising and displaying data collected using survey questions (eg pictograph, column graph or table)."
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Understand index notation for whole positive powers.",
+            "Measurement and geometry":"Calculate a distance on a scale image (eg map, drawing or photograph) when interpolation is required.",
+            "Statistics and probability":"Understand that a sample needs to be representative of the population to which you want to make inferences."
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Recognise that squaring and taking the square root, and cubing and taking the cube root, are inverse operations.  ",
+            "Measurement and geometry":"Recognise the standard prefixes of the metric system, and the relationships between them (eg milli- with metre, gram).",
+            "Statistics and probability":"Understand that probability values can be placed on a continuum from 0 (impossible) to 1 (certain)."
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Apply the commutative, associative and distributive laws to calculations. ",
+            "Measurement and geometry":"Recognise linked geometric representations of compound or irregular 3D shapes (eg matching different views of an object, identifying cross-sections of compound three-dimensional shapes).",
+            "Statistics and probability":"Use numerical values (fractions, decimals and percentages) to describe the probability of chance events (eg obtaining a given number on a spinner or dice)."
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Recognise that different outcomes occur depending on the order in which operations are carried out and understand that standard mathematical infix notation has rules for order of operations.",
+            "Measurement and geometry":"Recognise relationships among properties of a geometric object to quantify an unknown property (eg surface area, volume, number of vertices, faces or edges).",
+            "Statistics and probability":"Systematically identify all the possible outcomes in a discrete sample space for a situation involving a limited number of outcomes."
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Solve missing number equations involving mixed operations or multiple steps.",
+            "Measurement and geometry":"Measure angles in degrees and use formal conventions for naming angles.",
+            "Statistics and probability":"Understand how to read timetables and use them to solve problems."
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Interpret two-part ratios expressed formally (eg 3:1).",
+            "Measurement and geometry":"Recognise single-step shape transformations expressed quantitatively (eg rotation by a given fraction of a turn, reflection along a given mirror line, or enlargement by a given scale factor).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Use proportional reasoning in a variety of contexts (eg use an exchange rate to convert a quantity from one currency to another, scale up the ingredients in a recipe).",
+            "Measurement and geometry":"Give and follow instructions about direction, position and distance to move virtually through a space or on a map.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Recognise, represent and use a functional relationship between two variables in a concrete context (eg calculate number of chairs fitting around tables of increasing size).",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        },
+        {
+            "Level":7,
+            "Number and algebra":"Use words, tables, graphs or symbols to represent functional relationships between two variables in concrete contexts.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":8,
+            "Number and algebra":"Use negative and fractional index notation. ",
+            "Measurement and geometry":"Compare and use rates expressed in different units of time.",
+            "Statistics and probability":"Read data from two-way tables, column graphs, line graphs, and pie charts involving percentage values, and draw direct inferences."
+        },
+        {
+            "Level":8,
+            "Number and algebra":"Use the structure of decimal numbers and ideas of place value to say, recognise, write, decompose, compose, order and round very large and very small numbers, including the use of scientific notation for such numbers.",
+            "Measurement and geometry":"Read and use a scale where interpolation between labelled scale points and extrapolation of a given scale is required.",
+            "Statistics and probability":"Use Venn diagrams to represent events."
+        },
+        {
+            "Level":8,
+            "Number and algebra":"Evaluate and simplify expressions involving index notation.",
+            "Measurement and geometry":"Convert unidimensional units (eg centimetres to millimetres, millilitres to litres, kilograms to tonnes).",
+            "Statistics and probability":"Understand, describe and use relationships within displays of bivariate data (eg strength of association shown in a scatter plot, a linear or curvilinear relationship between two functionally related variables)."
+        },
+        {
+            "Level":8,
+            "Number and algebra":"Perform arithmetic operations (addition, subtraction, multiplication, division) with two or three steps involving positive and negative numbers, and fractions expressed in different ways (as decimals, as proper and improper fractions, as percentages).",
+            "Measurement and geometry":"Recognise relationships among properties of a geometric object to quantify an unknown property (eg perimeter, area, surface area, relationships between edge-lengths, and relationships between angles) in a range of contexts.",
+            "Statistics and probability":"Calculate and use mean, median, mode, range and interquartile range for ungrouped data. "
+        },
+        {
+            "Level":8,
+            "Number and algebra":"Use the commutative, associative and distributive laws to recognise equivalent expressions and perform calculations. ",
+            "Measurement and geometry":"Understand and use Pythagoras's Theorem, including exploring proofs of it.",
+            "Statistics and probability":"Understand the principles of randomness and bias in order to design a sampling frame (eg to ensure the representativeness of a sample for an opinion survey)."
+        },
+        {
+            "Level":8,
+            "Number and algebra":"Understand the use of pronumerals and variables in mathematical expressions. ",
+            "Measurement and geometry":"Know the angle sum of a triangle.",
+            "Statistics and probability":"Compare the probabilities of different outcomes when they can be listed as a discrete sample space (eg in games of chance or probability experiments)."
+        },
+        {
+            "Level":8,
+            "Number and algebra":"Explore proofs of simple number properties.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        },
+        {
+            "Level":8,
+            "Number and algebra":"Recognise, describe, represent and use linear relationships between two variables in a variety of contexts.",
+            "Measurement and geometry":"Understand the angle relationships associated with intersecting lines, and with parallel lines intersected by a transverse line.",
+            "Statistics and probability":"Understand the statistical concept of expectation."
+        },
+        {
+            "Level":8,
+            "Number and algebra":"Identify and describe number sequences including arithmetic and geometric progressions, Fibonacci sequence, sequence of triangular numbers and find future terms in those sequences.",
+            "Measurement and geometry":"Know that the volume of a cuboid can be calculated as the product of length, width and height. ",
+            "Statistics and probability":"Find the expected number of occurrences of a specific independent outcome when a probability experiment is repeated many times (eg expected number of heads with 50 tosses of a coin)."
+        },
+        {
+            "Level":8,
+            "Number and algebra":"",
+            "Measurement and geometry":"Recognise and construct linked geometric representations of a variety of three-dimensional objects (eg drawing front, top, side and back views; cross-sections, perspective views, and nets of given objects).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":8,
+            "Number and algebra":"",
+            "Measurement and geometry":"Describe and implement shape transformations (eg reflection, rotation, translation, enlargement/reduction) including sequential transformations, to two- and three-dimensional shapes.",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":9,
+            "Number and algebra":"Represent on a number line relative locations of a wide range of fractions and decimals.",
+            "Measurement and geometry":"Use measures expressed as rates, ratios and proportions in a range of contexts (eg speed, fuel consumption, scale factors in maps, similar figures).",
+            "Statistics and probability":"Retrieve and interpret data represented in different ways, including line graphs, box plots, stem-and-leaf plots, segmented (stacked) column graphs, and frequency tables of grouped data in order to draw direct inferences."
+        },
+        {
+            "Level":9,
+            "Number and algebra":"Use the commutative, associative and distributive laws to expand, factorise, simplify and substitute into linear algebraic expressions, and to solve linear equations and inequations.",
+            "Measurement and geometry":"Use the relations between angles in polygons, and angles created by intersecting lines (including a transversal between two parallel lines) in a plane, to quantify unknown angles.",
+            "Statistics and probability":"Make informal comparisons of related collections of data (eg comparisons over time or comparisons of populations).  "
+        },
+        {
+            "Level":9,
+            "Number and algebra":"Draw upon a range of mathematical conventions and tools to represent relationships in problem situations (eg formulae for area and volume calculations, and simple interest).",
+            "Measurement and geometry":"Understand sine, cosine and tangent and solve simple problems using them. ",
+            "Statistics and probability":"Use a wide range of representations such as tree diagrams, Venn diagrams and two-way tables to explore possible outcomes of chance events and experiments, including joint events."
+        },
+        {
+            "Level":9,
+            "Number and algebra":"Use proportional reasoning to formally represent and work with ratios requiring the comparison of more than two quantities (eg 1:3:5).",
+            "Measurement and geometry":"Describe and implement shape transformations (eg reflection, rotation, translation, enlargement/reduction) involving compound shapes. ",
+            "Statistics and probability":"Understand the distinction between permutations and combinations, and enumerate them in contexts involving a limited number of outcomes"
+        },
+        {
+            "Level":9,
+            "Number and algebra":"Recognise a non-linear relationship (eg a quadratic sequence expressed in a table of values; an exponential relationship depicted in a graph or equation).",
+            "Measurement and geometry":"Work with lines in the Cartesian plane, including understanding properties of parallel and perpendicular lines, finding the midpoint of a line and finding the distance between two points.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":9,
+            "Number and algebra":"Retrieve and interpret information from graphical representations composed of a series of line segments (eg time-distance graphs representing real-world movement of objects).",
+            "Measurement and geometry":"Understand the difference between congruent and similar triangles.",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":10,
+            "Number and algebra":"Use mathematical argumentation to derive the laws that govern indices and logarithms.",
+            "Measurement and geometry":"Synthesise and apply understandings from a range of measurement concepts to solve complex multi-step problem. ",
+            "Statistics and probability":"Draw conclusions about a dataset by bringing together information shown through different representations such as in tables (two-way tables, grouped data), grouped column graphs, histograms, line graphs, scatter plots."
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Use the laws that govern indices and logarithms to perform calculations, and solve equations.",
+            "Measurement and geometry":"Understand circle theorems.",
+            "Statistics and probability":"Understand the difference between theoretical and empirical probabilities and use frequency distributions to represent the outcomes of probability experiments."
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Interpret and use algebraic fractions in different forms",
+            "Measurement and geometry":"Use knowledge of circle properties to solve problems (eg area of part of a circle, angles formed by lines within the circle or at a tangent to the circle).",
+            "Statistics and probability":"Understand that different distribution types (eg uniform, normal, binomial) have different characteristics such as expected value and shape (including skew)."
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Use estimation and approximation to monitor and evaluate problem solutions.",
+            "Measurement and geometry":"Represent trigonometric functions symbolically and graphically.",
+            "Statistics and probability":"Analyse outcomes of probability experiments involving compound events with and without replacement (eg rolling two dice; choosing coloured marbles from a bag) and analyse permutations and combinations involving up to four choices."
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Formulate and solve pairs of simultaneous linear equations.",
+            "Measurement and geometry":"Synthesise and apply understandings of scales on diagrams and maps to solve complex multi-step problem (eg where scale transformation is required for comparison purposes).",
+            "Statistics and probability":"Understand the difference between independent and dependent events, and calculate conditional probabilities."
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Formulate rates and ratios with more than two quantities when they are given in complex problem contexts, and use proportional reasoning to find solutions.",
+            "Measurement and geometry":"Convert multidimensional units (eg square centimetres to square millimetres, cubic centimetres to litres, kilometres per hour to metres per second).",
+            "Statistics and probability":""
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Formulate, use and extend a range of models of relationships among variables (eg financial models, growth and decay models). ",
+            "Measurement and geometry":"Apply the sine and cosine rules to solve problems with non-right angle triangles.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Evaluate the validity of a proposed model, checking using estimation and application of the model to a range of plausible values.",
+            "Measurement and geometry":"Use trigonometry to find the area of a triangle.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Recognise and manipulate alternative representations (symbolic, graphic and tabular) of linear and quadratic functions (eg predict effect on a graph of changing a constant in an algebraic equation).",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Identify and interpret features of graphs of linear and quadratic functional relationships derived from familiar contexts (eg the meaning of the turning point in a graph representing the trajectory of a moving ball, the meaning of the intersection in graphs representing the motion of two runners in a race).",
+            "Measurement and geometry":"Understand the different conditions for congruence of two triangles.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Solve quadratic equations in abstract and practical contexts (eg by factorising using different strategies).",
+            "Measurement and geometry":"Use properties of similar triangles to solve problems involving ratios and scales factors.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Know the difference between natural numbers, integers, rational and irrational numbers.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        },
+        {
+            "Level":10,
+            "Number and algebra":"Understand and manipulate numbers in surd form.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":11,
+            "Number and algebra":"Identify and interpret properties of graphs of a wide range of basic functions (eg polynomial, cubic, reciprocal, circle, trigonometric, absolute value and inverses) such as gradient, local maximum and minimum points, intercepts, asymptotes, tangent lines.",
+            "Measurement and geometry":"Synthesise and apply understandings of volume and surface area of spheres, cones, prisms, cylinders and pyramids to solve complex multi-step problem (eg calculate the diameter of a cylinder to fulfil given volume constraints, calculate the rate of filling of a container of an irregular shape).",
+            "Statistics and probability":"Understand the links between probability, randomness, bias, and the notion of fairness (eg as in games of chance or with observational data)."
+        },
+        {
+            "Level":11,
+            "Number and algebra":"Use graphical and algebraic tools to explore intersections between different functions, including linear and non-linear functions. ",
+            "Measurement and geometry":"Use scaling with three-dimensional objects.",
+            "Statistics and probability":"Calculate and interpret mean and standard deviation for a small discrete data set."
+        },
+        {
+            "Level":11,
+            "Number and algebra":"Solve polynomial equations (eg by factorising using the factor and remainder theorems).",
+            "Measurement and geometry":"Explore features of different representational systems in two and three dimensions (eg polar vs Cartesian coordinate systems).",
+            "Statistics and probability":"Understand the difference between discrete and continuous data."
+        },
+        {
+            "Level":11,
+            "Number and algebra":"Simplify expressions including algebraic fractions ",
+            "Measurement and geometry":"Understand features of trigonometric functions (both in degree and radian measures) and their graphic representations including periodicity, amplitude and displacement.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":11,
+            "Number and algebra":"Use formulas for arithmetic and geometric sequences and series to solve real-world problems",
+            "Measurement and geometry":"Solve simple trigonometric equations with both restricted and unlimited domains.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":11,
+            "Number and algebra":"Understand the ideas of rates of change and limits, computing average and instantaneous rates of change.",
+            "Measurement and geometry":"Understand the concept of a formal proof using examples from geometry.",
+            "Statistics and probability":""
+        },
+        {
+            "Level":11,
+            "Number and algebra":"",
+            "Measurement and geometry":"Describe the features of conic sections (parabolas, ellipses, hyperbolas) including their algebraic forms.",
+            "Statistics and probability":""
+        }
+    ],
+    [
+        {
+            "Level":12,
+            "Number and algebra":"Manipulate limits and use these to derive the derivative of a function.",
+            "Measurement and geometry":"Solve trigonometric equations using trigonometric identities such as multiple angle and angle sum and difference identities (sin2x = 2sinxcosx etc).",
+            "Statistics and probability":"Use the Probability Density Function and Cumulative Distribution Function for a range of discrete and continuous probability distributions including the Normal distribution."
+        },
+        {
+            "Level":12,
+            "Number and algebra":"Apply differentiation in graph sketching and solving practical problems.",
+            "Measurement and geometry":"Understand matrices and perform matrix arithmetic. Use matrices to model and solve problems (eg in pricing or networks).",
+            "Statistics and probability":"Calculate and use means and standard deviations."
+        },
+        {
+            "Level":12,
+            "Number and algebra":"Understand anti-differentiation and use integration to find the area between curves and in kinematics applications.",
+            "Measurement and geometry":"Manipulate vectors in 2 or 3 dimensions and recognise vectors as a special case of matrices.",
+            "Statistics and probability":"Estimate population parameters and conduct significance tests; calculate Type I and Type II error probabilities."
+        },
+        {
+            "Level":12,
+            "Number and algebra":"Identify and interpret properties of graphs of a wide range of functions (from basic to logarithmic, exponential and hyperbolic functions) such as gradient, local and global maximum and minimum points, concavity and points of inflection.",
+            "Measurement and geometry":"Use matrices and vectors to represent and solve simultaneous linear equations.",
+            "Statistics and probability":"Understand and apply the general formulas for permutations and combinations."
+        },
+        {
+            "Level":12,
+            "Number and algebra":"Understand and graph translations, reflections and dilations of functions.",
+            "Measurement and geometry":"",
+            "Statistics and probability":"Use the underlying principles to solve a range of combinatorial problems, including applications to probability."
+        },
+        {
+            "Level":12,
+            "Number and algebra":"Extend the number system to include complex numbers, applying this to polynomial equations.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        },
+        {
+            "Level":12,
+            "Number and algebra":"Understand the complex plane.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        },
+        {
+            "Level":12,
+            "Number and algebra":"Understand and use proof techniques such as proof by contradiction and proof by induction.",
+            "Measurement and geometry":"",
+            "Statistics and probability":""
+        }
+    ]
+]
