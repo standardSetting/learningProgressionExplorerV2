@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learningProgressionExplorerV2/static/css/main.9e03feb3.css",
+    "main.js": "/learningProgressionExplorerV2/static/js/main.00346649.js",
+    "static/media/SampleLayerFour.png": "/learningProgressionExplorerV2/static/media/SampleLayerFour.982f34718b486558854e.png",
+    "static/media/logo.svg": "/learningProgressionExplorerV2/static/media/logo.0d889039ee22af9441bc4c07dde0011f.svg",
+    "index.html": "/learningProgressionExplorerV2/index.html",
+    "main.9e03feb3.css.map": "/learningProgressionExplorerV2/static/css/main.9e03feb3.css.map",
+    "main.00346649.js.map": "/learningProgressionExplorerV2/static/js/main.00346649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e03feb3.css",
+    "static/js/main.00346649.js"
+  ]
+}
